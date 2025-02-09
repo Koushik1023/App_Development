@@ -172,6 +172,6 @@ const styles = StyleSheet.create({
   },
   cardText: {
     fontSize: 40,
-    color: '#FF5722',
+    color: '#FF5723',
   },
 });
